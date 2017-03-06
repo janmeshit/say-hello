@@ -1,0 +1,16 @@
+{
+  "name": "inanzzz/sayhello",
+  "license": "MIT",
+  "type": "library",
+  "description": "Say Hello bundle",
+  "autoload": {
+    "psr-0": {
+      "Inanzzz\\HelloBundle": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.3",
+    "symfony/symfony": "2.6.*"
+  },
+  "minimum-stability": "stable"
+}
